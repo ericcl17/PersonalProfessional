@@ -8,3 +8,5 @@
 2500 renta 
 1300 papá 
 350 vexi
+1200 semana
+=850
