@@ -5,7 +5,7 @@
 {600 3er samsung}
 {540 tele}
 {2500 renta}
-800 bancoppel 
+{600 bancoppel} 
 1300 papá 
 1200 semana
 210 IZZI
