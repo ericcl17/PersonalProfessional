@@ -1,6 +1,3 @@
-- 30 Julio -
-320 at&t
-
 - 15 Agosto -
 {600 3er samsung}
 {540 tele}
@@ -8,4 +5,4 @@
 {600 bancoppel} 
 1300 papá 
 1200 semana
-210 IZZI
+{210 IZZI}
