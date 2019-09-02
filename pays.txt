@@ -2,7 +2,7 @@
 {700 4to samsung}
 {1150 papá} 
 {1000 coppel}
-1395 vexi
+{1395 vexi}
 {730 mecado crédito}
 500 mamá
 =2985
