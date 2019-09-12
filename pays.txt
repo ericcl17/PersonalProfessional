@@ -3,5 +3,5 @@
 2500 renta
 500 mamá
 600 tv
-400 coppel tec
 700 prestamo coppel
+400 izzi
