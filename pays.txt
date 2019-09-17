@@ -1,7 +1,7 @@
 - 31 Agosto -
-1000 bancoppel
+{600 bancoppel}
 {2500 renta}
-500 mamá
+{500 mamá}
 {600 tv}
-700 prestamo coppel
-400 izzi
+{700 prestamo coppel}
+{400 izzi}
