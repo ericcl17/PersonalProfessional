@@ -4,3 +4,4 @@
 1,631.49 vexi
 732 mercadoCrédito
 2308 TDC
+=3160
