@@ -3,5 +3,4 @@
 {500 coppel}
 {1,829.49 vexi}
 {438 mercadoCrédito}
-2308 TDC
-=3160
+1,325 TDC
