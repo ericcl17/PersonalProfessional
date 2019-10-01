@@ -2,6 +2,6 @@
 500 mamá
 500 coppel
 1,631.49 vexi
-438 mercadoCrédito
+{438 mercadoCrédito}
 2308 TDC
 =3160
