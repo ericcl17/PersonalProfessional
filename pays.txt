@@ -3,5 +3,5 @@
 600 bancoppel
 500 tele
 1000 Samsung 
-700 izzi
+440 izzi
 2500 renta
