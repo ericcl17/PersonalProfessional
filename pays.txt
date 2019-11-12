@@ -4,6 +4,5 @@
 2500 renta
 560 tv
 300 at&t
-800 xbox
 400 izzi
-1000 bancoppel
+600 bancoppel
