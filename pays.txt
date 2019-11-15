@@ -1,8 +1,8 @@
 - 15 noviembre -
 1000 mamá
-1000 samsung
-2500 renta
+{1000 samsung}
+{2500 renta}
 560 tv
-300 at&t
+{300 at&t}
 400 izzi
-600 bancoppel
+{600 bancoppel}
