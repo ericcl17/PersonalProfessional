@@ -14,4 +14,4 @@
 300 at&t
 238 tv
 800 xbox
-1000 mama
+500 mama
