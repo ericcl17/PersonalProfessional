@@ -10,8 +10,7 @@
 1,257 mercado crédito
 450 TDC
 891.65‬ vexi
-925 coppel
 300 at&t
-238 tv
-800 xbox
+{238 tv}
+{800 xbox}
 500 mama
