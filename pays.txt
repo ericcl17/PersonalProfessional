@@ -17,10 +17,10 @@
 
 - 15 Diciembre 2019-
 2,500 renta
-1,900 coppel
-500 coppel préstamo
-583.80 vexi
+{1,500 coppel}
+{500 coppel préstamo}
+{583.80 vexi}
 400 izzi
-1,150 samsung
-500 bancoppel
-780 TDC
+{1,150 samsung}
+{500 bancoppel}
+{780 TDC}
