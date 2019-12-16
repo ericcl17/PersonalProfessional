@@ -10,17 +10,17 @@
 {1,257 mercado crédito}
 {450 TDC}
 {720.65‬ vexi}
-300 at&t
+{300 at&t}
 {238 tv}
 {800 xbox}
 {500 mama}
 
 - 15 Diciembre 2019-
-2,500 renta
+{2,500 renta}
 {1,500 coppel}
 {500 coppel préstamo}
 {583.80 vexi}
-400 izzi
+{400 izzi}
 {1,150 samsung}
 {500 bancoppel}
 {780 TDC}
