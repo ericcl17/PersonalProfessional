@@ -1,4 +1,3 @@
-coppel Ropa 2,344
-coppel prestamo 1,466
+coppel Ropa 4,108
+coppel prestamo 1,531
 Samsung s10 12,650
-xbox 700
