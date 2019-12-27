@@ -30,5 +30,5 @@ TDC
 vexi
 1,114 mercado credito
 300 at&t
-700 xbox
+{700 xbox}
 500 mama
