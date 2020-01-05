@@ -26,9 +26,9 @@
 {780 TDC}
 
 - 30 Diciembre -
-TDC
-vexi
+{866 TDC}
+{800 vexi}
 {1,114 mercado credito}
 300 at&t
 {700 xbox}
-500 mama
+{700 mama}
