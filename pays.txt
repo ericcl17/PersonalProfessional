@@ -1,25 +1,15 @@
-- 15 Diciembre 2019-
-{2,500 renta}
-{1,500 coppel}
-{500 coppel préstamo}
-{583.80 vexi}
-{400 izzi}
-{1,150 samsung}
-{500 bancoppel}
-{780 TDC}
-
 - 30 Diciembre -
 {866 TDC}
 {800 vexi}
 {1,114 mercado credito}
-300 at&t
+{300 at&t}
 {700 xbox}
 {700 mama}
 
 - 15 Enero 2020-
-850 TDC
-866 vexi
+{850 TDC}
+{866 vexi}
 400 izzi
-1,150 s10
-500 bancoppel
-2,500 renta
+{1,150 s10}
+{500 bancoppel}
+{2,500 renta}
