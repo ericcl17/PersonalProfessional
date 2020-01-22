@@ -13,3 +13,10 @@
 {1,150 s10}
 {500 bancoppel}
 {2,500 renta}
+
+- 30 Enero -
+850 TDC
+850 vexi
+779 mercado credito
+627 prestamo
+626 coppel
