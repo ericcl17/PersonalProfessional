@@ -20,3 +20,4 @@
 779 mercado credito
 627 prestamo
 626 coppel
+500 mama
