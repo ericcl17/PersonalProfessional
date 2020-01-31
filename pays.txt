@@ -17,7 +17,7 @@
 - 30 Enero -
 850 TDC
 850 vexi
-779 mercado credito
-627 prestamo
-626 coppel
+{779 mercado credito}
+{627 prestamo}
+{300 coppel}
 500 mama
