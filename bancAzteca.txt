@@ -1,0 +1,69 @@
+private static void getNumeroPrimo() {
+        System.out.println("Ingresa numero");
+        if ( sc.nextInt() % 2 != 0) {
+            System.out.println("Es primo tu numero");
+        }else{
+            System.out.println("No es primo");
+        }
+    }
+    
+    private static int factorial(){
+        System.out.println("Ingresa numero");
+        int factorial=sc.nextInt();
+        int resultado=1;
+         for (int i = 1; i < factorial+1; i++) {
+            resultado=resultado*i;
+        }
+         
+         return resultado;
+    }
+    
+    private static void arreglo100(){
+        int []arr = new int[100];
+        for (int i = 0; i < 100; i++) {
+            arr[i]=i;
+        }
+        
+        for (int i = 0; i < arr.length; i++) {
+            if(arr[i]%2!=0){
+                System.out.println("El número " + i + " Es primo");
+            }
+        }
+    }
+    
+    private static void ordenamientoArreglo(){
+        int []arr = {5,2,3,1,4};
+        int temp;
+        
+        for (int i = 1; i < arr.length; i++) {
+            for (int j = arr.length-1; j >= i; j--) {
+                if(arr[j] < arr[j-1]){
+                    temp=arr[j];
+                    arr[j] = arr[j-1];
+                    arr[j-1] = temp;
+                }
+            }
+        }
+        
+        for (int i = 0; i < arr.length; i++) {
+            System.out.println(arr[i]);
+        }
+    }
+    
+    private static void factorialPrimos(){
+        System.out.println("Ingresa numero");
+        int factorial=sc.nextInt();
+        
+        int num = 2;
+
+          while(factorial!=1)
+          {
+               while(factorial%num==0)
+               {
+                    System.out.println(num);
+                    factorial /= num;
+               }
+               num++;
+          }
+    }
+    
