@@ -19,3 +19,4 @@
 1,150 s10
 500 bancoppel
 2,500 renta
+300 at&t
