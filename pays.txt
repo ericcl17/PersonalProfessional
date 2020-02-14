@@ -13,7 +13,7 @@
 {627 prestamo}
 {300 coppel}
 
-- 15 Enero 2020-
+- 15 febrero 2020-
 500 TDC
 400 izzi
 1,150 s10
