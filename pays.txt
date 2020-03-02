@@ -16,5 +16,5 @@
 - 30 febrero -
 450 TDC
 850 vexi
-472 mercado credito
-626 coppel
+{472 mercado credito}
+{626 coppel}
