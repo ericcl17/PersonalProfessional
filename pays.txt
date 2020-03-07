@@ -1,10 +1,3 @@
-- 30 Enero -
-{450 TDC}
-{850 vexi}
-{779 mercado credito}
-{627 prestamo}
-{300 coppel}
-
 - 15 febrero 2020-
 {500 TDC}
 {400 izzi}
@@ -14,7 +7,15 @@
 {300 at&t}
 
 - 30 febrero -
-450 TDC
-850 vexi
+550 TDC
 {472 mercado credito}
 {626 coppel}
+
+- 15 marzo -
+550 TDC
+1,600 vexi
+400 izzi
+1,150 s10
+500 bancoppel
+2,500 renta
+300 at&t
