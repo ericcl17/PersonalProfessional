@@ -1,0 +1,5 @@
+Software a instalar:
+
+-spring tool suite 4
+-Maven
+-Node JS
