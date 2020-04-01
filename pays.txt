@@ -14,7 +14,7 @@
 
 - 31 marzo -
 1100 TDC
-377 mercado credito
+{377 mercado credito}
 {626 coppel}
 1700 vexi
 {700 mama}
