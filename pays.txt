@@ -1,8 +1,3 @@
-- 30 febrero -
-{1100 TDC}
-{472 mercado credito}
-{626 coppel}
-
 - 15 marzo -
 {1,600 vexi}
 {400 izzi}
@@ -13,8 +8,17 @@
 {700 mamá}
 
 - 31 marzo -
-1100 TDC
+{800 TDC}
 {377 mercado credito}
 {1500 coppel}
 {800 vexi}
 {700 mama}
+
+- 15 abril -
+1,200 vexi
+400 izzi
+1,150 s10}
+500 bancoppel
+2,500 renta
+300 at&t
+700 mamá
