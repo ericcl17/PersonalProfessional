@@ -15,10 +15,10 @@
 {700 mama}
 
 - 15 abril -
-1,200 vexi
+{1,200 vexi}
 400 izzi
-1,150 s10}
+{1,150 s10}
 500 bancoppel
-2,500 renta
-300 at&t
+{2,500 renta}
+{300 at&t}
 700 mamá
