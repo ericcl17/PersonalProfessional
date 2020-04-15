@@ -18,7 +18,7 @@
 {1,200 vexi}
 400 izzi
 {1,150 s10}
-500 bancoppel
+{500 bancoppel}
 {2,500 renta}
 {300 at&t}
-700 mamá
+{700 mamá}
