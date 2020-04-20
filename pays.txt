@@ -1,12 +1,3 @@
-- 15 marzo -
-{1,600 vexi}
-{400 izzi}
-{1,150 s10}
-{500 bancoppel}
-{2,500 renta}
-{300 at&t}
-{700 mamá}
-
 - 31 marzo -
 {800 TDC}
 {377 mercado credito}
@@ -16,9 +7,16 @@
 
 - 15 abril -
 {1,200 vexi}
-400 izzi
+{400 izzi}
 {1,150 s10}
 {500 bancoppel}
 {2,500 renta}
 {300 at&t}
 {700 mamá}
+
+- 30 abril -
+1000 TDC
+1156 mercado credito
+1044 coppel
+500 vexi
+700 mama
