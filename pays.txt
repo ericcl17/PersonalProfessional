@@ -19,4 +19,4 @@
 {1156 mercado credito}
 {1044 coppel}
 500 vexi
-700 mama
+{800 mama}
