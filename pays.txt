@@ -15,7 +15,7 @@
 {800 mama}
 
 - 15 mayo -
-1,000 vexi
+{1,000 vexi}
 {400 izzi}
 {1,150 s10}
 {500 bancoppel}
