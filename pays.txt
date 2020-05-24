@@ -18,3 +18,4 @@
 1350 mercado credito
 1300 vexi
 800 mama
+2300 s10
