@@ -16,4 +16,4 @@
 1700 TDC
 {591 mercado credito}
 1271.24 vexi
-1600 mama
+1800 mama
