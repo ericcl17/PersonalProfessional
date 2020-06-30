@@ -14,7 +14,7 @@
 
 - 30 junio -
 1700 TDC
-591 mercado credito
+{591 mercado credito}
 1271.24 vexi
 800 mama
 1150 s10
